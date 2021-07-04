@@ -1,0 +1,26 @@
+{
+    "name": "keleo/custom-js-plugin",
+    "description": "A Kimai 2 plugin, which allows to edit custom JS code through an administration screen.",
+    "homepage": "https://www.kimai.org/store/keleo-js-custom-bundle.html",
+    "type": "kimai-plugin",
+    "version": "1.0",
+    "keywords": [
+        "kimai",
+        "kimai-plugin"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kevin Papst",
+            "email": "kpapst@gmx.net",
+            "homepage": "https://www.keleo.de"
+        }
+    ],
+    "extra": {
+        "kimai": {
+            "require": "1.4",
+            "version": "1.4",
+            "name": "CustomJSBundle"
+        }
+    }
+}

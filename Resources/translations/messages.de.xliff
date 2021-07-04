@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file date="2019-02-20T20:00:00Z" source-language="en" target-language="de" datatype="plaintext" original="messages.en.xliff">
+        <body>
+            <trans-unit id="Custom JS">
+                <source>Custom JS</source>
+                <target>Eigenes JS</target>
+            </trans-unit>
+            <trans-unit id="custom_js.subtitle">
+                <source>custom_js.subtitle</source>
+                <target>Dieses JS wird bei jedem Seitenaufruf mit eingebunden</target>
+            </trans-unit>
+            <trans-unit id="custom_js.add_code_help">
+                <source>custom_js.add_code_help</source>
+                <target>Fügen Sie ihre eigenen JS Code hier ein</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
